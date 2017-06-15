@@ -1,0 +1,5 @@
+
+/.idea/
+/target/
+/deepLearning4J-example.iml
+.DS_Store
